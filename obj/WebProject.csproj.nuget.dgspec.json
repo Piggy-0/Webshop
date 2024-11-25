@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Hocky1-Nam4\\Kiến trúc hướng dịch vụ\\Project\\WebProject\\WebProject\\WebProject.csproj": {}
+    "D:\\CN.Net\\WebProject\\WebProject\\WebProject.csproj": {}
   },
   "projects": {
-    "F:\\Hocky1-Nam4\\Kiến trúc hướng dịch vụ\\Project\\WebProject\\WebProject\\WebProject.csproj": {
+    "D:\\CN.Net\\WebProject\\WebProject\\WebProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Hocky1-Nam4\\Kiến trúc hướng dịch vụ\\Project\\WebProject\\WebProject\\WebProject.csproj",
+        "projectUniqueName": "D:\\CN.Net\\WebProject\\WebProject\\WebProject.csproj",
         "projectName": "WebProject",
-        "projectPath": "F:\\Hocky1-Nam4\\Kiến trúc hướng dịch vụ\\Project\\WebProject\\WebProject\\WebProject.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\Hocky1-Nam4\\Kiến trúc hướng dịch vụ\\Project\\WebProject\\WebProject\\obj\\",
+        "projectPath": "D:\\CN.Net\\WebProject\\WebProject\\WebProject.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\CN.Net\\WebProject\\WebProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
